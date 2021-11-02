@@ -1,0 +1,40 @@
+h1 {
+  text-align: center;
+  color: white;
+  font-weight: 700;
+  text-decoration: rgb(74, 74, 255) underline dotted;
+  font-size: 50px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+h2 {
+  color: pink;
+  background-color: gold;
+  letter-spacing: 5px;
+}
+
+p {
+  color: plum;
+  line-height: 2;
+}
+
+.blue {
+  color: rgb(74, 74, 255);
+}
+
+.green {
+  color: #89ac59;
+}
+
+.red {
+  color: rgb(224, 77, 77);
+}
+
+body {
+  background-color: rgb(34, 34, 34);
+}
+
+a {
+  text-decoration: none;
+}
