@@ -15,3 +15,35 @@ h2 {
 #signup {
   background-color: #81b29a;
 }
+
+span {
+  color: #3f37c9;
+}
+
+.tag {
+  background: #e63946;
+  color: #f1faee;
+  font-size: 17px;
+}
+/* Descendent Selector Example
+section span a {
+  color: #e07a5f;
+} */
+
+.post a {
+  color: #e07a5f;
+}
+
+footer a {
+  color: #e63946;
+}
+
+/* Adjacent Selector Example */
+h2 + button {
+  font-size: 20px;
+}
+
+/* Direct-Descendent Selector Example */
+footer > a {
+  color: #00b4d8;
+}
